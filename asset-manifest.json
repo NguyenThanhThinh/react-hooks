@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-hooks/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-hooks/static/js/main.b015208f.chunk.js",
+    "main.js.map": "/react-hooks/static/js/main.b015208f.chunk.js.map",
+    "runtime-main.js": "/react-hooks/static/js/runtime-main.d093e042.js",
+    "runtime-main.js.map": "/react-hooks/static/js/runtime-main.d093e042.js.map",
+    "static/js/2.0fef3a0d.chunk.js": "/react-hooks/static/js/2.0fef3a0d.chunk.js",
+    "static/js/2.0fef3a0d.chunk.js.map": "/react-hooks/static/js/2.0fef3a0d.chunk.js.map",
+    "static/js/3.bafdd81e.chunk.js": "/react-hooks/static/js/3.bafdd81e.chunk.js",
+    "static/js/3.bafdd81e.chunk.js.map": "/react-hooks/static/js/3.bafdd81e.chunk.js.map",
+    "index.html": "/react-hooks/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/react-hooks/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0fef3a0d.chunk.js.LICENSE.txt": "/react-hooks/static/js/2.0fef3a0d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-hooks/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d093e042.js",
+    "static/js/2.0fef3a0d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b015208f.chunk.js"
+  ]
+}
